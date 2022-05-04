@@ -8,6 +8,7 @@ Global warming has already progressed to the point where the water table is risi
 Well... here: [trashway to heaven by TLX0815 (itch.io)](https://tlx0815.itch.io/trashway-to-heaven)
 # Controls
 placing an block: arrow down
+
 jump: space
 
 # Fun Facts
