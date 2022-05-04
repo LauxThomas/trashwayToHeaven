@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Trashguy_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Hip
+    m_Weight: 0
+  - m_Path: Hip/l_Upperleg
+    m_Weight: 0
+  - m_Path: Hip/l_Upperleg/l_Lowerleg
+    m_Weight: 0
+  - m_Path: Hip/l_Upperleg/l_Lowerleg/l_Foot
+    m_Weight: 0
+  - m_Path: Hip/l_Upperleg/l_Lowerleg/l_Foot/l_Football
+    m_Weight: 0
+  - m_Path: Hip/l_Upperleg/l_Lowerleg/l_Foot/l_Football/l_Footend
+    m_Weight: 0
+  - m_Path: Hip/r_Upperleg
+    m_Weight: 0
+  - m_Path: Hip/r_Upperleg/r_Lowerleg
+    m_Weight: 0
+  - m_Path: Hip/r_Upperleg/r_Lowerleg/r_Foot
+    m_Weight: 0
+  - m_Path: Hip/r_Upperleg/r_Lowerleg/r_Foot/r_Football
+    m_Weight: 0
+  - m_Path: Hip/r_Upperleg/r_Lowerleg/r_Foot/r_Football/r_Footend
+    m_Weight: 0
+  - m_Path: Hip/Spine_1
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/l_Clavicle
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/l_Clavicle/l_Upperarm
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/l_Clavicle/l_Upperarm/l_Lowerarm
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/l_Clavicle/l_Upperarm/l_Lowerarm/l_Hand
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/Neck
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/Neck/Head
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/Neck/Head/Face_b
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/Neck/Head/Face_f
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/Neck/Head/l_Eyebrow
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/Neck/Head/r_Eyebrow
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/r_Clavicle
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/r_Clavicle/r_Upperarm
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/r_Clavicle/r_Upperarm/r_Lowerarm
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/r_Clavicle/r_Upperarm/r_Lowerarm/r_Hand
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/r_Clavicle/r_Upperarm/r_Lowerarm/r_Hand/Trashcan
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/r_Clavicle/r_Upperarm/r_Lowerarm/r_Hand/Trashcan/Trashcan_f
+    m_Weight: 1
+  - m_Path: Hip/Spine_1/Spine_2/r_Clavicle/r_Upperarm/r_Lowerarm/r_Hand/Trashcan/Trashcan_lit
+    m_Weight: 1
+  - m_Path: Master_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine1_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/l_Shoulder_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/l_Shoulder_Cntrl/l_Upper_Arm_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/l_Shoulder_Cntrl/l_Upper_Arm_Cntrl/l_Lower_Arm_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/l_Shoulder_Cntrl/l_Upper_Arm_Cntrl/l_Lower_Arm_Cntrl/l_Hand_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/Neck_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/Neck_Cntrl/Head_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/Neck_Cntrl/Head_Cntrl/Face_Back_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/Neck_Cntrl/Head_Cntrl/Face_Front_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/Neck_Cntrl/Head_Cntrl/l_Eyebrow_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/Neck_Cntrl/Head_Cntrl/r_Eyebrow_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/r_Shoulder_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/r_Shoulder_Cntrl/r_Upper_Arm_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/r_Shoulder_Cntrl/r_Upper_Arm_Cntrl/r_Lower_Arm_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/r_Shoulder_Cntrl/r_Upper_Arm_Cntrl/r_Lower_Arm_Cntrl/r_Hand_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/r_Shoulder_Cntrl/r_Upper_Arm_Cntrl/r_Lower_Arm_Cntrl/r_Hand_Cntrl/Trashcan_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/r_Shoulder_Cntrl/r_Upper_Arm_Cntrl/r_Lower_Arm_Cntrl/r_Hand_Cntrl/Trashcan_Cntrl/Trashcan_Lit_Cntrl
+    m_Weight: 0
+  - m_Path: Master_Cntrl/Hip_Cntrl/Spine2_Cntrl/r_Shoulder_Cntrl/r_Upper_Arm_Cntrl/r_Lower_Arm_Cntrl/r_Hand_Cntrl/Trashcan_Cntrl/Trashcan_Rotation
+    m_Weight: 0
+  - m_Path: Trashguy
+    m_Weight: 1

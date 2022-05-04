@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: b74255521b03da2458527dca45aa2717
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Face_b
+    100002: Face_Back_Cntrl
+    100004: Face_f
+    100006: Face_Front_Cntrl
+    100008: Head
+    100010: Head_Cntrl
+    100012: Hip
+    100014: Hip_Cntrl
+    100016: l_Clavicle
+    100018: l_Eyebrow
+    100020: l_Eyebrow_Cntrl
+    100022: l_Foot
+    100024: l_Football
+    100026: l_Footend
+    100028: l_Hand
+    100030: l_Hand_Cntrl
+    100032: l_Lower_Arm_Cntrl
+    100034: l_Lowerarm
+    100036: l_Lowerleg
+    100038: l_Shoulder_Cntrl
+    100040: l_Upper_Arm_Cntrl
+    100042: l_Upperarm
+    100044: l_Upperleg
+    100046: Master_Cntrl
+    100048: Neck
+    100050: Neck_Cntrl
+    100052: r_Clavicle
+    100054: r_Eyebrow
+    100056: r_Eyebrow_Cntrl
+    100058: r_Foot
+    100060: r_Football
+    100062: r_Footend
+    100064: r_Hand
+    100066: r_Hand_Cntrl
+    100068: r_Lower_Arm_Cntrl
+    100070: r_Lowerarm
+    100072: r_Lowerleg
+    100074: r_Shoulder_Cntrl
+    100076: r_Upper_Arm_Cntrl
+    100078: r_Upperarm
+    100080: r_Upperleg
+    100082: Spine1_Cntrl
+    100084: Spine2_Cntrl
+    100086: Spine_1
+    100088: Spine_2
+    100090: Trashcan
+    100092: Trashcan_Cntrl
+    100094: Trashcan_f
+    100096: Trashcan_lit
+    100098: Trashcan_Lit_Cntrl
+    100100: Trashcan_Rotation
+    100102: //RootNode
+    400000: Face_b
+    400002: Face_Back_Cntrl
+    400004: Face_f
+    400006: Face_Front_Cntrl
+    400008: Head
+    400010: Head_Cntrl
+    400012: Hip
+    400014: Hip_Cntrl
+    400016: l_Clavicle
+    400018: l_Eyebrow
+    400020: l_Eyebrow_Cntrl
+    400022: l_Foot
+    400024: l_Football
+    400026: l_Footend
+    400028: l_Hand
+    400030: l_Hand_Cntrl
+    400032: l_Lower_Arm_Cntrl
+    400034: l_Lowerarm
+    400036: l_Lowerleg
+    400038: l_Shoulder_Cntrl
+    400040: l_Upper_Arm_Cntrl
+    400042: l_Upperarm
+    400044: l_Upperleg
+    400046: Master_Cntrl
+    400048: Neck
+    400050: Neck_Cntrl
+    400052: r_Clavicle
+    400054: r_Eyebrow
+    400056: r_Eyebrow_Cntrl
+    400058: r_Foot
+    400060: r_Football
+    400062: r_Footend
+    400064: r_Hand
+    400066: r_Hand_Cntrl
+    400068: r_Lower_Arm_Cntrl
+    400070: r_Lowerarm
+    400072: r_Lowerleg
+    400074: r_Shoulder_Cntrl
+    400076: r_Upper_Arm_Cntrl
+    400078: r_Upperarm
+    400080: r_Upperleg
+    400082: Spine1_Cntrl
+    400084: Spine2_Cntrl
+    400086: Spine_1
+    400088: Spine_2
+    400090: Trashcan
+    400092: Trashcan_Cntrl
+    400094: Trashcan_f
+    400096: Trashcan_lit
+    400098: Trashcan_Lit_Cntrl
+    400100: Trashcan_Rotation
+    400102: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

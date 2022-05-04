@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 181c78f4ed22ff8499a6a7cbdac25881
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicManager: {instanceID: 0}
+  - triumph: {fileID: 8300000, guid: 0ddc35da9ec10d54aa5d75c409ac43f7, type: 3}
+  - earthMusic: {fileID: 8300000, guid: c8c1610d6cc12104a8044448a4f74790, type: 3}
+  - airMusic: {fileID: 8300000, guid: 12a1928c90454bc44b2c0bacd0086980, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
