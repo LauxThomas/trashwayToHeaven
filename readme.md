@@ -1,8 +1,8 @@
 # Intro
 Global warming has already progressed to the point where the water table is rising relentlessly. Thank God, mankind has accumulated so much garbage over the centuries that garbage is available as an infinite resource. The only way out of dying by drowning is to fill up the entire planet in order to gradually escape the rising water level.
-![test123](https://www.directupload.net/file/d/6538/7fbit9ld_png.htm)
+![test123](https://www.directupload.net/file/d/6538/7fbit9ld_png)
 
-![test456](https://www.directupload.net/file/d/6538/rpnipqm7_png.htm)
+![test456](https://www.directupload.net/file/d/6538/rpnipqm7_png)
 
 
 
